@@ -1,0 +1,43 @@
+markdown:            kramdown
+highlighter:         rouge
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+timezone: "Asia/Jakarta"
+
+
+# Setup
+title:               epicoffee
+tagline:             'A call for coffee'
+description:         'for those who loves coffee and life.'
+url:                 http://epicoffee.com
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Deden fathurahman
+  url:               https://twitter.com/dedenf
+  email:             dedenf@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+github:
+  repo:           https://github.com/epicoffee/epicoffee.github.io
+
+gems:
+  - jemoji
+  - jekyll-paginate
+
+paginate_path: "page/:num"
+excerpt_separator: "\n\n"
+
+pages_list:
+  Tentang: '/about'
+  Arsip: '/archive'
+  Feed: '/atom.xml'
