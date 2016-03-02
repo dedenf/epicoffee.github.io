@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Epicoffee</title>
+ <title>epicoffee</title>
  <link href="http://epicoffee.com/atom.xml" rel="self"/>
  <link href="http://epicoffee.com/"/>
- <updated>2016-03-01T19:37:20+07:00</updated>
+ <updated>2016-03-02T17:34:52+07:00</updated>
  <id>http://epicoffee.com</id>
  <author>
    <name>Deden fathurahman</name>
@@ -13,11 +13,24 @@
 
  
  <entry>
+   <title>10 Incredible AeroPress Posters</title>
+   <link href="http://epicoffee.com/2016/03/02/aeropress-poster/"/>
+   <updated>2016-03-02T00:00:00+07:00</updated>
+   <id>http://epicoffee.com/2016/03/02/aeropress-poster</id>
+   <content type="html">&lt;p&gt;i love the one from Brazil&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://sprudge.com/wp-content/uploads/2016/02/campeonato_bras_aeropress_2016.jpg&quot; alt=&quot;Brazil&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(via &lt;a href=&quot;http://sprudge.com/10-incredible-aeropress-posters-and-one-terrible-one-95375.html&quot;&gt;Sprudge&lt;/a&gt;)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Making Coffee is easy</title>
    <link href="http://epicoffee.com/2016/03/01/making-coffee-is-easy/"/>
    <updated>2016-03-01T00:00:00+07:00</updated>
    <id>http://epicoffee.com/2016/03/01/making-coffee-is-easy</id>
-   <content type="html">&lt;iframe src=&quot;//player.vimeo.com/video/12167131&quot; width=&quot;600&quot; height=&quot;340&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;iframe src=&quot;//player.vimeo.com/video/12167131&quot; width=&quot;720&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vimeo.com/12167131&quot;&gt;Making Coffee is Easy&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/user3877993&quot;&gt;Mike Devlin&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </content>
@@ -28,7 +41,7 @@
    <link href="http://epicoffee.com/2016/02/01/brew-guide-aero/"/>
    <updated>2016-02-01T00:00:00+07:00</updated>
    <id>http://epicoffee.com/2016/02/01/brew-guide-aero</id>
-   <content type="html">&lt;iframe src=&quot;//player.vimeo.com/video/15103805&quot; width=&quot;600&quot; height=&quot;340&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+   <content type="html">&lt;iframe src=&quot;//player.vimeo.com/video/15103805&quot; width=&quot;700&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vimeo.com/15103805&quot;&gt;Aeropress&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/doubleshotcz&quot;&gt;doubleshot – prazirna kavy&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;&lt;/p&gt;
 </content>
