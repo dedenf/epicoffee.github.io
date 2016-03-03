@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>epicoffee</title>
- <link href="https://epicoffee.com/atom.xml" rel="self"/>
- <link href="https://epicoffee.com/"/>
- <updated>2016-03-03T16:37:36+07:00</updated>
- <id>https://epicoffee.com</id>
+ <link href="http://epicoffee.com/atom.xml" rel="self"/>
+ <link href="http://epicoffee.com/"/>
+ <updated>2016-03-03T16:55:41+07:00</updated>
+ <id>http://epicoffee.com</id>
  <author>
    <name>Deden fathurahman</name>
    <email>dedenf@gmail.com</email>
@@ -14,10 +14,10 @@
  
  <entry>
    <title>kopi vendor</title>
-   <link href="https://epicoffee.com/2016/03/03/kopi-vendor/"/>
+   <link href="http://epicoffee.com/2016/03/03/kopi-vendor/"/>
    <updated>2016-03-03T00:00:00+07:00</updated>
-   <id>https://epicoffee.com/2016/03/03/kopi-vendor</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;https://epicoffee.com/images/posts/kopi.jpg&quot; alt=&quot;kopi&quot; /&gt;&lt;/p&gt;
+   <id>http://epicoffee.com/2016/03/03/kopi-vendor</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://epicoffee.com/images/posts/kopi.jpg&quot; alt=&quot;kopi&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a typical ‘mobile’ coffee vendor in Jakarta, they will bring a lot of coffee in a sachet continer, and also couple of hot water jug, they will serve a hot coffee on the go for people who need it.
 the coffee brand is ranged from Kapal Api, ABC and also so-called &lt;em&gt;white-coffee&lt;/em&gt;.&lt;/p&gt;
@@ -26,9 +26,9 @@ the coffee brand is ranged from Kapal Api, ABC and also so-called &lt;em&gt;whit
  
  <entry>
    <title>10 Incredible AeroPress Posters</title>
-   <link href="https://epicoffee.com/2016/03/02/aeropress-poster/"/>
+   <link href="http://epicoffee.com/2016/03/02/aeropress-poster/"/>
    <updated>2016-03-02T00:00:00+07:00</updated>
-   <id>https://epicoffee.com/2016/03/02/aeropress-poster</id>
+   <id>http://epicoffee.com/2016/03/02/aeropress-poster</id>
    <content type="html">&lt;p&gt;i love the one from Brazil&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://sprudge.com/wp-content/uploads/2016/02/campeonato_bras_aeropress_2016.jpg&quot; alt=&quot;Brazil&quot; /&gt;&lt;/p&gt;
@@ -39,9 +39,9 @@ the coffee brand is ranged from Kapal Api, ABC and also so-called &lt;em&gt;whit
  
  <entry>
    <title>Making Coffee is easy</title>
-   <link href="https://epicoffee.com/2016/03/01/making-coffee-is-easy/"/>
+   <link href="http://epicoffee.com/2016/03/01/making-coffee-is-easy/"/>
    <updated>2016-03-01T00:00:00+07:00</updated>
-   <id>https://epicoffee.com/2016/03/01/making-coffee-is-easy</id>
+   <id>http://epicoffee.com/2016/03/01/making-coffee-is-easy</id>
    <content type="html">&lt;iframe src=&quot;//player.vimeo.com/video/12167131&quot; width=&quot;720&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vimeo.com/12167131&quot;&gt;Making Coffee is Easy&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/user3877993&quot;&gt;Mike Devlin&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
@@ -50,9 +50,9 @@ the coffee brand is ranged from Kapal Api, ABC and also so-called &lt;em&gt;whit
  
  <entry>
    <title>Brew Guide (Aeropress)</title>
-   <link href="https://epicoffee.com/2016/02/01/brew-guide-aero/"/>
+   <link href="http://epicoffee.com/2016/02/01/brew-guide-aero/"/>
    <updated>2016-02-01T00:00:00+07:00</updated>
-   <id>https://epicoffee.com/2016/02/01/brew-guide-aero</id>
+   <id>http://epicoffee.com/2016/02/01/brew-guide-aero</id>
    <content type="html">&lt;iframe src=&quot;//player.vimeo.com/video/15103805&quot; width=&quot;700&quot; height=&quot;400&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://vimeo.com/15103805&quot;&gt;Aeropress&lt;/a&gt; from &lt;a href=&quot;http://vimeo.com/doubleshotcz&quot;&gt;doubleshot – prazirna kavy&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;&lt;/p&gt;
