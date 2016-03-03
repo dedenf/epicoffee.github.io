@@ -4,13 +4,25 @@
  <title>epicoffee</title>
  <link href="http://epicoffee.com/atom.xml" rel="self"/>
  <link href="http://epicoffee.com/"/>
- <updated>2016-03-02T17:34:52+07:00</updated>
+ <updated>2016-03-03T10:34:12+07:00</updated>
  <id>http://epicoffee.com</id>
  <author>
    <name>Deden fathurahman</name>
    <email>dedenf@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>kopi vendor</title>
+   <link href="http://epicoffee.com/2016/03/03/kopi-vendor/"/>
+   <updated>2016-03-03T00:00:00+07:00</updated>
+   <id>http://epicoffee.com/2016/03/03/kopi-vendor</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://epicoffee.com/images/posts/kopi.jpg&quot; alt=&quot;kopi&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a typical ‘mobile’ coffee vendor in Jakarta, they will bring a lot of coffee in a sachet continer, and also couple of hot water jug, they will serve a hot coffee on the go for people who need it.
+the coffee brand is ranged from Kapal Api, ABC and also so-called &lt;em&gt;white-coffee&lt;/em&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>10 Incredible AeroPress Posters</title>
