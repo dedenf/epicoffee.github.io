@@ -14,7 +14,7 @@ timezone: "Asia/Jakarta"
 title:               epicoffee
 tagline:             'A call for coffee'
 description:         'for those who loves coffee and life.'
-url:                 'https://epicoffee.com'
+url:                 https://epicoffee.com
 baseurl:             ''
 paginate:            5
 host: localhost
