@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Brew Guide (Aeropress)
+tags:
+    - issue
+    - development
 ---
 
 <iframe src="//player.vimeo.com/video/15103805" width="700" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

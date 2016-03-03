@@ -17,6 +17,7 @@ description:         'for those who loves coffee and life.'
 url:                 http://epicoffee.com
 baseurl:             ''
 paginate:            5
+host: localhost
 
 # About/contact
 author:
@@ -25,7 +26,7 @@ author:
   email:             dedenf@gmail.com
 
 # Custom vars
-version:             1.0.0
+version:             '1.0.0'
 
 github:
   repo:           https://github.com/epicoffee/epicoffee.github.io
