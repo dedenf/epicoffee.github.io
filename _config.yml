@@ -9,9 +9,9 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:            notes
-tagline:          'no tagline, sorry'
-description:      'no particular reason'
+title:            epicoffee
+tagline:          'A call for coffee'
+description:      'for those who loves coffee and life.'
 url:              http://epicoffee.com
 baseurl: 		  ""
 # author:
