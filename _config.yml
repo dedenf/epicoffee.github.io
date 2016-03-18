@@ -1,3 +1,4 @@
+# Dependencies
 markdown:            kramdown
 highlighter:         rouge
 
@@ -7,29 +8,26 @@ highlighter:         rouge
 permalink:           pretty
 # relative_permalinks: true
 
-timezone: "Asia/Jakarta"
-
-
 # Setup
-title:               epicoffee
-tagline:             'A call for coffee'
-description:         'for those who loves coffee and life.'
-url:                 http://epicoffee.com
-baseurl:             ''
-paginate:            5
-host: localhost
+title:            notes
+tagline:          'no tagline, sorry'
+description:      'no particular reason'
+url:              http://epicoffee.com
+baseurl: 		  ""
+# author:
+#   name:           'Deden Fathurahman'
+#   url:            http://github.com/dedef
+#   gravatar:       https://en.gravatar.com/yourname
+#   photo:          /images/sites/logo-pakeapa.png
+#   introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
 
-# About/contact
-author:
-  name:              Deden fathurahman
-  url:               https://twitter.com/dedenf
-  email:             dedenf@gmail.com
+paginate:         5
 
 # Custom vars
-version:             '1.0.0'
+version:          1.0.0
 
 github:
-  repo:           https://github.com/epicoffee/epicoffee.github.io
+  repo:           https://github.com/epicoffee/dedenf.github.io
 
 gems:
   - jemoji
