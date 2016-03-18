@@ -643,6 +643,13 @@ a.tags {border-bottom: 1px solid #ccc;}
     /*display: block;*/
     padding-left: 10px;
 }
+
+article.post ul li{
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+
 .page ul,
 .page ul li
 {
